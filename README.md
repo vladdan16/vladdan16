@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-I am an Innopolis University student, 2nd year Bachelor. I really enjoy cross platform modile development with Flutter.
+I am an Innopolis University student, 2nd year Bachelor. I really enjoy cross platform mobile development with Flutter.
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
